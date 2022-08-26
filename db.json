@@ -98,17 +98,17 @@
   "acts": [
     {
     "title": "Philippine Red Cross",
-    "description": "qwertyuiop",
+    "description": "qwertyuiop asdfghjkl zxcvbnm",
     "date": "Feb 19, 2001 10:48pm"
    },
    {
     "title": "Kids International Mission",
-    "description": "asdfghjkl",
+    "description": "asdfghjkl qwertyuiop zxcvbnm ",
     "date": "Nov 23, 1999 05:22am"
    }, 
     {
     "title": "Philippine General Hospital",
-    "description": "zxcvbnm",
+    "description": "zxcvbnm asdfghjkl qwertyuiop ",
     "date": "Feb 22, 2020 12:11am"
    }
    ]
