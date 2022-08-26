@@ -69,7 +69,47 @@
     "charity": "Kids International Mission",
     "amount": "100,000"
    }
+   ],
+  
+  "user": [
+    {
+    "type": "USER1",
+    "rank": "01",
+    "picture": "PICTURE4",
+    "charity": "Philippine Red Cross",
+    "amount": "100,000"
+   },
+    {
+    "type": "USER2",
+    "rank": "02",
+    "picture": "PICTURE5",
+    "charity": "Philippine General Hospital",
+    "amount": "100,000"
+   },
+    {
+    "type": "USER3",
+    "rank": "03",
+    "picture": "PICTURE1",
+    "charity": "Kids International Mission",
+    "amount": "100,000"
+   }
+   ],
+
+  "acts": [
+    {
+    "title": "Philippine Red Cross",
+    "description": "qwertyuiop",
+    "date": "100,000"
+   },
+   {
+    "title": "Kids International Mission",
+    "description": "asdfghjkl",
+    "date": "100,000"
+   }, {
+    "title": "Philippine General Hospital",
+    "description": "zxcvbnm",
+    "date": "100,000"
+   }
    ]
-        
- 
+
 }
