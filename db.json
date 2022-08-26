@@ -3,7 +3,7 @@
    {
     "type": "charity",
     "rank": "01",
-    "picture": "PICTURE2",
+    "picture": "PICTURE1",
     "charity": "Philippine Red Cross",
     "amount": "100,000"
    },
@@ -38,28 +38,28 @@
     {
     "type": "user",
     "rank": "03",
-    "picture": "PICTURE6",
+    "picture": "PICTURE1",
     "charity": "Kids International Mission",
     "amount": "100,000"
    },
     {
     "type": "team",
     "rank": "01",
-    "picture": "PICTURE7",
+    "picture": "PICTURE2",
     "charity": "Philippine Red Cross",
     "amount": "100,000"
    },
     {
     "type": "team",
     "rank": "02",
-    "picture": "PICTURE8",
+    "picture": "PICTURE3",
     "charity": "Philippine General Hospital",
     "amount": "100,000"
    },
     {
     "type": "team",
     "rank": "03",
-    "picture": "PICTURE9",
+    "picture": "PICTURE4",
     "charity": "Kids International Mission",
     "amount": "100,000"
    }
