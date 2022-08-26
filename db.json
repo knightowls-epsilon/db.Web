@@ -1,5 +1,5 @@
 {
-  "Box": [
+  "charity": [
    {
     "type": "CHARITY1",
     "rank": "01",
@@ -20,7 +20,32 @@
     "picture": "PICTURE3",
     "charity": "Kids International Mission",
     "amount": "100,000"
+   }
+ 
+    {
+    "type": "TEAM1",
+    "rank": "01",
+    "picture": "PICTURE2",
+    "charity": "Philippine Red Cross",
+    "amount": "100,000"
    },
+    {
+    "type": "TEAM2",
+    "rank": "02",
+    "picture": "PICTURE3",
+    "charity": "Philippine General Hospital",
+    "amount": "100,000"
+   },
+    {
+    "type": "TEAM3",
+    "rank": "03",
+    "picture": "PICTURE4",
+    "charity": "Kids International Mission",
+    "amount": "100,000"
+   }
+   ],
+  
+  "user": [
     {
     "type": "USER1",
     "rank": "01",
@@ -63,9 +88,30 @@
     "charity": "Kids International Mission",
     "amount": "100,000"
    }
-    
-   
+   ],
 
+  "user": [
+    {
+    "type": "TEAM1",
+    "rank": "01",
+    "picture": "PICTURE2",
+    "charity": "Philippine Red Cross",
+    "amount": "100,000"
+   },
+    {
+    "type": "TEAM2",
+    "rank": "02",
+    "picture": "PICTURE3",
+    "charity": "Philippine General Hospital",
+    "amount": "100,000"
+   },
+    {
+    "type": "TEAM3",
+    "rank": "03",
+    "picture": "PICTURE4",
+    "charity": "Kids International Mission",
+    "amount": "100,000"
+   }
    ]
         
  
