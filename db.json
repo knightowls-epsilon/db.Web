@@ -1,6 +1,7 @@
 {
   "charity": [
    {
+     "id": 1,
     "type": "CHARITY1",
     "rank": "01",
     "picture": "PICTURE1",
@@ -8,6 +9,7 @@
     "amount": "100,000"
    },
     {
+      "id": 2,
     "type": "CHARITY2",
     "rank": "02",
     "picture": "PICTURE2",
@@ -15,6 +17,7 @@
     "amount": "100,000"
    },
     {
+      "id": 3,
     "type": "CHARITY3",
     "rank": "03",
     "picture": "PICTURE3",
@@ -25,6 +28,7 @@
   
   "user": [
     {
+      "id": 1,
     "type": "USER1",
     "rank": "01",
     "picture": "PICTURE4",
@@ -32,6 +36,7 @@
     "amount": "100,000"
    },
     {
+      "id": 2,
     "type": "USER2",
     "rank": "02",
     "picture": "PICTURE5",
@@ -39,6 +44,7 @@
     "amount": "100,000"
    },
     {
+      "id": 3,
     "type": "USER3",
     "rank": "03",
     "picture": "PICTURE1",
@@ -49,6 +55,7 @@
 
   "team": [
     {
+      "id": 1,
     "type": "TEAM1",
     "rank": "01",
     "picture": "PICTURE2",
@@ -56,6 +63,7 @@
     "amount": "100,000"
    },
     {
+      "id": 2,
     "type": "TEAM2",
     "rank": "02",
     "picture": "PICTURE3",
@@ -63,6 +71,7 @@
     "amount": "100,000"
    },
     {
+      "id": 3,
     "type": "TEAM3",
     "rank": "03",
     "picture": "PICTURE4",
@@ -73,6 +82,7 @@
   
   "user": [
     {
+      "id": 1,
     "type": "USER1",
     "rank": "01",
     "picture": "PICTURE4",
@@ -80,6 +90,7 @@
     "amount": "100,000"
    },
     {
+      "id": 2,
     "type": "USER2",
     "rank": "02",
     "picture": "PICTURE5",
@@ -87,6 +98,7 @@
     "amount": "100,000"
    },
     {
+      "id": 3,
     "type": "USER3",
     "rank": "03",
     "picture": "PICTURE1",
@@ -97,16 +109,19 @@
 
   "acts": [
     {
+      "id": 1,
     "title": "Philippine Red Cross",
     "description": "qwertyuiop asdfghjkl zxcvbnm",
     "date": "Feb 19, 2001 10:48pm"
    },
    {
+     "id": 2,
     "title": "Kids International Mission",
     "description": "asdfghjkl qwertyuiop zxcvbnm ",
     "date": "Nov 23, 1999 05:22am"
    }, 
     {
+      "id": 3,
     "title": "Philippine General Hospital",
     "description": "zxcvbnm asdfghjkl qwertyuiop ",
     "date": "Feb 22, 2020 12:11am"
